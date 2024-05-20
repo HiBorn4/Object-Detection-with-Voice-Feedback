@@ -1,0 +1,5 @@
+numpy==1.21.0
+opencv-python==4.5.3.56
+argparse==1.4.0
+speechrecognition==3.8.1
+gtts==2.2.2
