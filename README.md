@@ -42,12 +42,12 @@ To use this repository, follow these steps:
 
 3. Install the required packages:
    ```sh
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 4. Run the object detection script:
    ```sh
-   python script.py -i path/to/image.jpg -y path/to/yolo_directory
+   python3 script.py -i path/to/image.jpg -y path/to/yolo_directory
    ```
 
 Ensure that your `yolo_directory` contains the `yolov8.cfg`, `coco.names`, and `yolov8.weights` files. Modify the script as necessary to fit your specific setup and requirements.
